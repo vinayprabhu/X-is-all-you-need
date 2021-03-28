@@ -1,5 +1,6 @@
 # X is all you need
                           
+Co-creators: Vinay Uday Prabhu and Ryan Teehan
 
 The success enjoyed by the [Attention is all you need](https://arxiv.org/abs/1706.03762)
 spurred an avalanche of papers whose title or content banked off of the X-_is all you need_ quip :sweat_smile:. 
