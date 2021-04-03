@@ -1,6 +1,20 @@
 # X is all you need
                           
-Co-creators: Vinay Uday Prabhu and Ryan Teehan
+Co-creators: (Vinay Uday Prabhu)[https://twitter.com/vinayprabhu] and Ryan Teehan
+Citation:
+```
+@inproceedings{prabhu2020spices,
+  title={SPICES: Survey Papers As Interactive Cheatsheet Embeddings},
+  author={Prabhu, Uday Vinay and 
+McAteer, Matthew and Teehan, Ryan },
+  booktitle={Rethinking ML Papers - ICLR 2021 Workshop},
+  howpublished = {\url{https://openreview.net/pdf?id=1sysg9hi3KS}},
+  month = {April},
+  year = {2020},
+  note = {(Accessed on 04/03/2021)}
+  year={2020}
+}
+```
 
 The success enjoyed by the [Attention is all you need](https://arxiv.org/abs/1706.03762)
 spurred an avalanche of papers whose title or content banked off of the X-_is all you need_ quip :sweat_smile:. 
